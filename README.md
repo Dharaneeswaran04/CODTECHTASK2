@@ -31,7 +31,8 @@ Demo:
 A live demo of the Recipe Organizer can be found here.
 
 The screenshot of my output without input is down:
-![image](https://github.com/user-attachments/assets/f01a9936-e6e5-4265-a92d-e4896c2fb8b0)
+![Screenshot (58)](https://github.com/user-attachments/assets/859928c5-0a78-43c0-a102-feaafb8f467d)
+
 
 The screenshot of my output with input is down:
 ![Screenshot (58)](https://github.com/user-attachments/assets/ededb439-e127-4f38-b22d-d66ee217f37f)
